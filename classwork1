@@ -1,0 +1,15 @@
+db.classwork.insertOne({
+    "_id": 123,
+    "Emp_ID": "10025AE336",
+    "Personal_details": {
+        "First_Name": "Peter",
+        "Last_Name": "Prince",
+        "Date_Of_Birth": "2000-06-20"
+    },
+    "Contact": {
+        "e-mail": "Peterprince8801@gmail.com",
+        "phone": "2035896173"
+    },
+    "Address": {
+        "city": "Hyderabad",
+        "Area": "Saroornagar",
